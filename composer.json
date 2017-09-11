@@ -1,0 +1,20 @@
+{
+    "name": "fr3nch13/vendor-php-rtf-html",
+    "description": "RTF to HTML converter in PHP",
+    "keywords": ["rtf", "converter"],
+    "type": "library",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Alexander van Oostenrijk",
+            "email": "alex.vanoostenrijk@gmail.com"
+        },
+        {
+            "name": "Brian French",
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["rtf-html-php.php"]
+    }
+}
